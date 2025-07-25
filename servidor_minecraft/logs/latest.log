@@ -690,3 +690,7 @@
 [25Jul2025 21:01:55.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -16.291808183869534,-1.1645389165839646,-2.0846931278136367
 [25Jul2025 21:05:29.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kreeex lost connection: Disconnected
 [25Jul2025 21:05:29.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex left the game
+[25Jul2025 21:10:29.816] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55cd610d
+[25Jul2025 21:10:29.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kreeex[/127.130.50.75:55571] logged in with entity id 5774 at (-1857.4035320758132, 64.0625, -359.87708255971046)
+[25Jul2025 21:10:29.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex joined the game
+[25Jul2025 21:12:06.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2368ms or 47 ticks behind
