@@ -56,7 +56,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-07-25 04:39:11 +0000",
+      "potato": "2025-07-25 04:51:18 +0000",
       "bread": "2025-07-25 01:53:00 +0000",
+      "mushroom_stew": "2025-07-25 04:51:47 +0000",
       "carrot": "2025-07-25 04:16:27 +0000"
     },
     "done": false
