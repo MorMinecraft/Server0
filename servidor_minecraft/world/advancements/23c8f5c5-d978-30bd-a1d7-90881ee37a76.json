@@ -1,4 +1,10 @@
 {
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-25 02:12:06 +0000"
+    },
+    "done": true
+  },
   "archipelagoadditions:archipelagoadditions/the_barbaric_archipelago": {
     "criteria": {
       "spawn": "2025-07-25 01:40:43 +0000"
@@ -25,6 +31,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:husk": "2025-07-25 02:10:13 +0000",
       "minecraft:zombie": "2025-07-25 01:45:22 +0000",
       "minecraft:drowned": "2025-07-25 02:03:21 +0000"
     },
