@@ -666,3 +666,6 @@ java.lang.ClassCastException: class net.mehvahdjukaar.supplementaries.common.blo
 [25Jul2025 16:48:37.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg left the game
 [25Jul2025 16:50:50.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luquita23 has made the advancement [Wares & Stories]
 [25Jul2025 16:57:48.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
+[25Jul2025 17:03:56.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luquita23 has made the advancement [Getting an Upgrade]
+[25Jul2025 17:06:30.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cirasas lost connection: Disconnected
+[25Jul2025 17:06:30.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas left the game

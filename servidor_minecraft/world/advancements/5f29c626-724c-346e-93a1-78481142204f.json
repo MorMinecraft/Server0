@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-25 17:03:56 +0000"
+    },
+    "done": true
+  },
   "archipelagoadditions:archipelagoadditions/find_johanns_ship": {
     "criteria": {
       "in_ship": "2025-07-25 16:50:50 +0000"
@@ -53,7 +59,8 @@
       "minecraft:forest": "2025-07-25 16:54:28 +0000",
       "minecraft:desert": "2025-07-25 03:09:59 +0000",
       "minecraft:jungle": "2025-07-25 16:52:50 +0000",
-      "minecraft:warm_ocean": "2025-07-25 03:13:17 +0000"
+      "minecraft:warm_ocean": "2025-07-25 03:13:17 +0000",
+      "minecraft:plains": "2025-07-25 16:54:48 +0000"
     },
     "done": false
   },
