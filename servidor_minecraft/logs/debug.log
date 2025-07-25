@@ -6738,3 +6738,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Jul2025 03:38:02.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Triple Stryke
 [25Jul2025 03:40:43.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jul2025 03:40:43.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 03:41:56.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Triple Stryke
+[25Jul2025 03:42:36.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Triple Stryke
+[25Jul2025 03:43:28.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Triple Stryke
+[25Jul2025 03:45:43.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 03:45:43.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 03:46:57.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has made the advancement [What a Deal!]
+[25Jul2025 03:47:34.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Iron Golem
+[25Jul2025 03:47:57.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg has made the advancement [What a Deal!]
+[25Jul2025 03:50:43.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 03:50:43.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

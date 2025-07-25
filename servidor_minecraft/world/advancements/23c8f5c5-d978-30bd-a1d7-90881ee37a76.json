@@ -31,6 +31,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2025-07-25 03:46:27 +0000",
       "minecraft:cow": "2025-07-25 03:11:24 +0000"
     },
     "done": false
@@ -79,6 +80,12 @@
       "bread": "2025-07-25 01:53:00 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-25 03:46:57 +0000"
+    },
+    "done": true
   },
   "minecraft:story/mine_stone": {
     "criteria": {
