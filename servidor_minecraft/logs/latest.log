@@ -710,3 +710,13 @@ java.lang.ClassCastException: class net.mehvahdjukaar.supplementaries.common.blo
 [25Jul2025 18:07:52.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Huevito has made the advancement [Acquire Hardware]
 [25Jul2025 18:07:54.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Huevito has made the advancement [Diamonds!]
 [25Jul2025 18:09:43.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas has reached the goal [Workout Session]
+[25Jul2025 18:11:40.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cirasas lost connection: Disconnected
+[25Jul2025 18:11:40.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas left the game
+[25Jul2025 18:12:59.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Huevito has made the advancement [Ice Bucket Challenge]
+[25Jul2025 18:13:31.082] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3fb02fe6
+[25Jul2025 18:13:31.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: natasha[/127.57.230.156:39151] logged in with entity id 44090 at (-4.5, 87.0, -4.5)
+[25Jul2025 18:13:31.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: natasha joined the game
+[25Jul2025 18:13:31.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: natasha has made the advancement [The Barbaric Archipelago]
+[25Jul2025 18:14:06.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Huevito> [name:"Aldea Llanura", x:-1951, y:63, z:-1073, dim:minecraft:overworld]
+[25Jul2025 18:14:52.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> [name:"Aldea Llanura", x:-1951, y:63, z:-1073, dim:minecraft:overworld]
+[25Jul2025 18:20:03.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-915, y=62, z=-410} BlockPos{x=-915, y=61, z=-410}

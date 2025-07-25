@@ -1,6 +1,7 @@
 {
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_cod": "2025-07-25 18:09:46 +0000",
       "bread": "2025-07-25 18:02:31 +0000",
       "rotten_flesh": "2025-07-25 17:55:52 +0000"
     },
@@ -33,6 +34,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-07-25 17:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-25 18:12:59 +0000"
     },
     "done": true
   },

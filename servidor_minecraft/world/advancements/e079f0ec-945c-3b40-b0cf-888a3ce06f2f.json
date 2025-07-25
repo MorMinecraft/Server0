@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-07-25 18:09:43 +0000"
+    },
+    "done": true
+  },
   "archipelagoadditions:archipelagoadditions/the_barbaric_archipelago": {
     "criteria": {
       "spawn": "2025-07-25 16:22:18 +0000"

@@ -180,6 +180,12 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-07-25 18:18:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-07-25 02:07:55 +0000"
