@@ -715,3 +715,7 @@
 [25Jul2025 02:12:06.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has made the advancement [Sweet Dreams]
 [25Jul2025 02:13:37.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Monstrous Nightmare
 [25Jul2025 02:26:19.089] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Viking'/31006, l='ServerLevel[world]', x=-1999.67, y=68.00, z=-1072.35] died, message: 'Viking was slain by Zombie'
+[25Jul2025 02:29:51.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg has made the advancement [Not Today, Thank You]
+[25Jul2025 02:31:33.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg has made the advancement [Isn't It Iron Pick]
+[25Jul2025 02:35:55.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Light Fury
+[25Jul2025 02:37:03.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
