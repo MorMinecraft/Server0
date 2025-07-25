@@ -1,0 +1,51 @@
+{
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-07-25 04:10:25 +0000"
+    },
+    "done": false
+  },
+  "archipelagoadditions:archipelagoadditions/the_barbaric_archipelago": {
+    "criteria": {
+      "spawn": "2025-07-25 04:02:44 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-07-25 04:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-25 04:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-25 04:10:33 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:archipelagoadditions/find_johanns_ship": {
+    "criteria": {
+      "in_ship": "2025-07-25 04:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_badlands": "2025-07-25 04:02:44 +0000",
+      "minecraft:badlands": "2025-07-25 04:02:52 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-25 04:07:48 +0000",
+      "minecraft:river": "2025-07-25 04:03:48 +0000",
+      "minecraft:stony_shore": "2025-07-25 04:05:22 +0000",
+      "minecraft:desert": "2025-07-25 04:04:10 +0000",
+      "minecraft:warm_ocean": "2025-07-25 04:07:16 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
