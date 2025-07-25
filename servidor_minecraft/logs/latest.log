@@ -682,3 +682,8 @@ java.lang.ClassCastException: class net.mehvahdjukaar.supplementaries.common.blo
 [25Jul2025 17:25:53.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas has made the advancement [The Andesite Age]
 [25Jul2025 17:27:41.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cirasas lost connection: Disconnected
 [25Jul2025 17:27:41.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas left the game
+[25Jul2025 17:32:16.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luquita23 lost connection: Disconnected
+[25Jul2025 17:32:16.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luquita23 left the game
+[25Jul2025 17:33:09.321] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@15847a7b
+[25Jul2025 17:33:09.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Morangg[/127.157.203.231:45745] logged in with entity id 27585 at (-1951.4109150466456, 64.0, -1074.091579492928)
+[25Jul2025 17:33:09.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg joined the game
