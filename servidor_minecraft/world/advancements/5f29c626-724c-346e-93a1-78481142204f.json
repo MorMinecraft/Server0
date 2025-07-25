@@ -1,9 +1,21 @@
 {
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-25 17:13:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-07-25 16:47:57 +0000"
     },
     "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-25 17:11:21 +0000"
+    },
+    "done": true
   },
   "archipelagoadditions:archipelagoadditions/the_barbaric_archipelago": {
     "criteria": {
@@ -56,10 +68,12 @@
       "minecraft:river": "2025-07-25 03:14:52 +0000",
       "minecraft:lukewarm_ocean": "2025-07-25 16:50:00 +0000",
       "minecraft:stony_shore": "2025-07-25 03:11:10 +0000",
+      "minecraft:dripstone_caves": "2025-07-25 17:06:04 +0000",
       "minecraft:forest": "2025-07-25 16:54:28 +0000",
       "minecraft:desert": "2025-07-25 03:09:59 +0000",
       "minecraft:jungle": "2025-07-25 16:52:50 +0000",
       "minecraft:warm_ocean": "2025-07-25 03:13:17 +0000",
+      "minecraft:savanna": "2025-07-25 17:20:45 +0000",
       "minecraft:plains": "2025-07-25 16:54:48 +0000"
     },
     "done": false

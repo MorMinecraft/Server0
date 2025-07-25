@@ -669,3 +669,16 @@ java.lang.ClassCastException: class net.mehvahdjukaar.supplementaries.common.blo
 [25Jul2025 17:03:56.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luquita23 has made the advancement [Getting an Upgrade]
 [25Jul2025 17:06:30.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cirasas lost connection: Disconnected
 [25Jul2025 17:06:30.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas left the game
+[25Jul2025 17:09:11.782] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5fc4a240
+[25Jul2025 17:09:11.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cirasas[/127.47.96.20:32847] logged in with entity id 16263 at (-1846.1357223355683, 22.176759275064235, -1191.8823729532648)
+[25Jul2025 17:09:11.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas joined the game
+[25Jul2025 17:10:35.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas has made the advancement [Acquire Hardware]
+[25Jul2025 17:11:21.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luquita23 has made the advancement [Acquire Hardware]
+[25Jul2025 17:13:56.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luquita23 has made the advancement [Sweet Dreams]
+[25Jul2025 17:22:25.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas was slain by Stinger
+[25Jul2025 17:22:38.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas was slain by Stinger
+[25Jul2025 17:22:48.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas was slain by Stinger
+[25Jul2025 17:22:56.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas has made the advancement [Dragon Hunter]
+[25Jul2025 17:25:53.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas has made the advancement [The Andesite Age]
+[25Jul2025 17:27:41.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cirasas lost connection: Disconnected
+[25Jul2025 17:27:41.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas left the game

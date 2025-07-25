@@ -5,12 +5,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2025-07-25 16:26:27 +0000"
-    },
-    "done": false
-  },
   "archipelagoadditions:archipelagoadditions/the_barbaric_archipelago": {
     "criteria": {
       "spawn": "2025-07-25 16:22:18 +0000"
@@ -23,15 +17,51 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-07-25 16:41:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-25 16:26:27 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:dragon_hunter/dragonhunter": {
+    "criteria": {
+      "stinger": "2025-07-25 17:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-25 16:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-25 16:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-07-25 16:26:27 +0000"
+    },
+    "done": false
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-07-25 17:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-25 17:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-25 16:41:25 +0000"
     },
     "done": true
   },
@@ -41,9 +71,9 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "stone_pickaxe": "2025-07-25 16:42:16 +0000"
+      "killed_by_something": "2025-07-25 17:22:25 +0000"
     },
     "done": true
   },
@@ -59,9 +89,9 @@
     },
     "done": false
   },
-  "minecraft:story/root": {
+  "create:andesite_casing": {
     "criteria": {
-      "crafting_table": "2025-07-25 16:26:18 +0000"
+      "0": "2025-07-25 17:25:53 +0000"
     },
     "done": true
   },
