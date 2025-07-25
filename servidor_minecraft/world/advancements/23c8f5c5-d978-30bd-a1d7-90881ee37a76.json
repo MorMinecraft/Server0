@@ -75,6 +75,12 @@
     },
     "done": true
   },
+  "archipelagoadditions:archipelagoadditions/find_johanns_ship": {
+    "criteria": {
+      "in_ship": "2025-07-25 19:55:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:wooded_badlands": "2025-07-25 01:43:10 +0000",

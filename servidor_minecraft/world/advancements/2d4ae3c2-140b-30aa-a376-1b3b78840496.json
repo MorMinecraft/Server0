@@ -29,6 +29,12 @@
     },
     "done": false
   },
+  "archipelagoadditions:dragon_hunter/dragonhunter": {
+    "criteria": {
+      "light_fury": "2025-07-25 19:29:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-25 18:29:41 +0000"
@@ -61,6 +67,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "potato": "2025-07-25 19:17:19 +0000",
       "bread": "2025-07-25 19:04:26 +0000",
       "melon_slice": "2025-07-25 18:24:43 +0000",
       "cod": "2025-07-25 19:02:01 +0000"
@@ -97,6 +104,13 @@
     },
     "done": false
   },
+  "isleofberk:isleofberk": {
+    "criteria": {
+      "monstrous_nightmare": "2025-07-25 19:47:47 +0000",
+      "terrible_terror": "2025-07-25 19:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:wooded_badlands": "2025-07-25 18:14:23 +0000",
@@ -118,6 +132,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-07-25 18:36:47 +0000"
+    },
+    "done": true
+  },
+  "isleofberk:stoker": {
+    "criteria": {
+      "terrible_terror": "2025-07-25 19:47:47 +0000"
     },
     "done": true
   },

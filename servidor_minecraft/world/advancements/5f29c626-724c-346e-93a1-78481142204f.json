@@ -78,6 +78,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:wooded_badlands": "2025-07-25 03:08:52 +0000",
+      "minecraft:bamboo_jungle": "2025-07-25 19:19:22 +0000",
       "minecraft:badlands": "2025-07-25 03:08:32 +0000",
       "minecraft:beach": "2025-07-25 16:53:14 +0000",
       "minecraft:sparse_jungle": "2025-07-25 16:43:16 +0000",
