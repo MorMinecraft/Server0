@@ -29,7 +29,9 @@
     "criteria": {
       "minecraft:pillager": "2025-07-25 04:33:01 +0000",
       "minecraft:skeleton": "2025-07-25 03:32:13 +0000",
+      "minecraft:evoker": "2025-07-25 21:21:36 +0000",
       "minecraft:husk": "2025-07-25 02:10:13 +0000",
+      "minecraft:vex": "2025-07-25 21:22:13 +0000",
       "minecraft:zombie": "2025-07-25 01:45:22 +0000",
       "minecraft:drowned": "2025-07-25 02:03:21 +0000"
     },
