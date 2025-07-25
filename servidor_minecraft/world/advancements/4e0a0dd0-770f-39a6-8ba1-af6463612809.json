@@ -43,12 +43,6 @@
     },
     "done": false
   },
-  "archipelagoadditions:dragon_hunter/dragonhunter": {
-    "criteria": {
-      "gronckle": "2025-07-25 04:02:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-25 02:09:39 +0000",
@@ -63,6 +57,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-25 03:01:46 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:dragon_hunter/dragonhunter": {
+    "criteria": {
+      "gronckle": "2025-07-25 04:02:05 +0000"
     },
     "done": true
   },
