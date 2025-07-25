@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-25 18:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-07-25 18:25:00 +0000"
@@ -64,6 +70,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-07-25 17:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-25 18:35:29 +0000"
     },
     "done": true
   },
