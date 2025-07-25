@@ -795,3 +795,7 @@
 [25Jul2025 04:26:49.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ekundetaker15 has made the advancement [A Seedy Place]
 [25Jul2025 04:31:34.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has made the advancement [Dragon Hunter]
 [25Jul2025 04:32:10.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ekundetaker15 has made the advancement [Acquire Hardware]
+[25Jul2025 04:34:06.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2337ms or 46 ticks behind
+[25Jul2025 04:35:20.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ekundetaker15 was slain by Hideous Zippleback
+[25Jul2025 04:36:02.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ekundetaker15 lost connection: Disconnected
+[25Jul2025 04:36:02.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ekundetaker15 left the game

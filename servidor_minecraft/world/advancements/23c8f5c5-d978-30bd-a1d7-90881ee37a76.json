@@ -27,6 +27,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-25 04:33:01 +0000",
       "minecraft:skeleton": "2025-07-25 03:32:13 +0000",
       "minecraft:husk": "2025-07-25 02:10:13 +0000",
       "minecraft:zombie": "2025-07-25 01:45:22 +0000",
@@ -54,6 +55,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-07-25 04:39:11 +0000",
       "bread": "2025-07-25 01:53:00 +0000",
       "carrot": "2025-07-25 04:16:27 +0000"
     },
@@ -120,6 +122,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-07-25 03:57:48 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:dragon_hunter/dragonhunter": {
+    "criteria": {
+      "light_fury": "2025-07-25 04:31:34 +0000"
     },
     "done": true
   },

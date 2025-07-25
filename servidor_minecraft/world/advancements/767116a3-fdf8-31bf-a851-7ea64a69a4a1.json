@@ -54,6 +54,12 @@
     },
     "done": false
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-25 04:32:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-07-25 04:25:20 +0000"
