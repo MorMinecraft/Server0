@@ -719,3 +719,20 @@
 [25Jul2025 02:31:33.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg has made the advancement [Isn't It Iron Pick]
 [25Jul2025 02:35:55.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Light Fury
 [25Jul2025 02:37:03.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
+[25Jul2025 02:44:02.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Light Fury
+[25Jul2025 02:44:05.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kreeex lost connection: Timed out
+[25Jul2025 02:44:05.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex left the game
+[25Jul2025 02:44:05.483] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Jul2025 02:44:33.494] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71ed51f
+[25Jul2025 02:44:33.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kreeex[/127.130.50.75:36757] logged in with entity id 39043 at (-545.0697306288201, 65.0, -273.606787266436)
+[25Jul2025 02:44:33.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex joined the game
+[25Jul2025 02:45:06.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kreeex was kicked for floating too long!
+[25Jul2025 02:45:06.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kreeex lost connection: Flying is not enabled on this server
+[25Jul2025 02:45:06.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex left the game
+[25Jul2025 02:45:34.284] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@736d550
+[25Jul2025 02:45:34.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kreeex[/127.130.50.75:47371] logged in with entity id 39560 at (-55.76089878608949, 87.02442408821369, 3.5974065908756674)
+[25Jul2025 02:45:34.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex joined the game
+[25Jul2025 02:46:17.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kreeex moved too quickly! -9.968705271578415,2.0013359791121417,-2.0178885960477464
+[25Jul2025 02:59:10.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has made the advancement [Best Friends Forever]
+[25Jul2025 02:59:10.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has made the advancement [Unique friendship]
+[25Jul2025 02:59:10.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has made the advancement [Hot-headed fire breathers]
