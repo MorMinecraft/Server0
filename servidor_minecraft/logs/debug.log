@@ -6167,3 +6167,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Jul2025 15:51:19.033] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@76ed51d0 into net.minecraft.network.Connection@629ea9
 [25Jul2025 15:51:19.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex joined the game
 [25Jul2025 15:51:41.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg has made the advancement [The Andesite Age]
+[25Jul2025 15:53:57.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 15:53:57.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 15:55:49.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg has made the advancement [Hot Stuff]
+[25Jul2025 15:58:57.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 15:58:57.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 15:59:46.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kreeex> la cabra
+[25Jul2025 15:59:54.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> me destrosa el flechazo que tenes en la frente
+[25Jul2025 16:00:03.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> con r disparas
+[25Jul2025 16:00:03.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kreeex> gajes del oficio
+[25Jul2025 16:01:32.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kreeex> en 1 hora vuelvo
+[25Jul2025 16:01:40.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> ok
+[25Jul2025 16:01:53.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg fell from a high place
+[25Jul2025 16:01:57.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kreeex> ?
+[25Jul2025 16:02:01.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> q jijojeju

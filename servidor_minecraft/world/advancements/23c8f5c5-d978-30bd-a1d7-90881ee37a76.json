@@ -127,15 +127,15 @@
     },
     "done": true
   },
-  "archipelagoadditions:dragon_hunter/dragonhunter": {
-    "criteria": {
-      "light_fury": "2025-07-25 04:31:34 +0000"
-    },
-    "done": true
-  },
   "isleofberk:light_fury": {
     "criteria": {
       "requirements": "2025-07-25 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:dragon_hunter/dragonhunter": {
+    "criteria": {
+      "light_fury": "2025-07-25 04:31:34 +0000"
     },
     "done": true
   },
