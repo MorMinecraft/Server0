@@ -739,3 +739,14 @@ java.lang.ClassCastException: class net.mehvahdjukaar.supplementaries.common.blo
 [25Jul2025 18:41:02.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luquita23 lost connection: Timed out
 [25Jul2025 18:41:02.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luquita23 left the game
 [25Jul2025 18:41:02.231] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Jul2025 18:41:11.232] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@646bad8a
+[25Jul2025 18:41:11.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luquita23[/127.217.190.61:43479] logged in with entity id 58122 at (-2035.2940506732148, 74.0, -2381.7941782179673)
+[25Jul2025 18:41:11.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luquita23 joined the game
+[25Jul2025 18:41:35.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Huevito has made the advancement [What a Deal!]
+[25Jul2025 18:41:37.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: natasha has made the advancement [Fishy Business]
+[25Jul2025 18:42:08.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Huevito has made the advancement [Sweet Dreams]
+[25Jul2025 18:48:54.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luquita23) moved wrongly! 0.49385513537436054
+[25Jul2025 18:48:54.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luquita23) moved wrongly! 0.8655287110773315
+[25Jul2025 18:48:54.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luquita23) moved wrongly! 1.099002051762909
+[25Jul2025 18:48:55.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luquita23) moved wrongly! 1.3960873416244794
+[25Jul2025 18:48:55.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luquita23) moved wrongly! 1.7675568160861985
