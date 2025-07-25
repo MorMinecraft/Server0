@@ -750,3 +750,23 @@ java.lang.ClassCastException: class net.mehvahdjukaar.supplementaries.common.blo
 [25Jul2025 18:48:54.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luquita23) moved wrongly! 1.099002051762909
 [25Jul2025 18:48:55.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luquita23) moved wrongly! 1.3960873416244794
 [25Jul2025 18:48:55.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luquita23) moved wrongly! 1.7675568160861985
+[25Jul2025 18:52:49.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luquita23) moved wrongly! 0.8028994174264881
+[25Jul2025 18:52:49.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luquita23) moved wrongly! 1.0300169289309906
+[25Jul2025 18:52:50.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luquita23) moved wrongly! 0.3186283233173981
+[25Jul2025 18:54:19.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Huevito has made the advancement [Fishy Business]
+[25Jul2025 18:58:15.882] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@154034cb
+[25Jul2025 18:58:15.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kreeex[/127.130.50.75:60991] logged in with entity id 68832 at (-1924.6270477164512, 63.0, -1052.7176153766818)
+[25Jul2025 18:58:15.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex joined the game
+[25Jul2025 18:58:38.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luquita23> vuela alto server
+[25Jul2025 18:58:45.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Huevito> digan chau
+[25Jul2025 18:58:46.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> QEPD
+[25Jul2025 18:59:43.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kreeex> q hicieron con mi dragon?
+[25Jul2025 18:59:55.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Huevito> le meti el chisito
+[25Jul2025 18:59:59.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luquita23> que drogon?
+[25Jul2025 19:00:10.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kreeex lost connection: Disconnected
+[25Jul2025 19:00:10.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex left the game
+[25Jul2025 19:01:23.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg was doomed to fall by natasha
+[25Jul2025 19:04:22.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> configura para que recargar los shaders sea con otra tecla que no sea la r
+[25Jul2025 19:06:25.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: natasha has made the advancement [A Seedy Place]
+[25Jul2025 19:07:54.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: natasha has made the advancement [The Parrots and the Bats]
+[25Jul2025 19:08:59.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luquita23 has made the advancement [Fishy Business]

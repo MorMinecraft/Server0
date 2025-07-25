@@ -5,20 +5,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_porkchop": "2025-07-25 17:26:43 +0000",
-      "cooked_mutton": "2025-07-25 18:41:56 +0000",
-      "cooked_beef": "2025-07-25 16:47:57 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-07-25 17:11:21 +0000"
-    },
-    "done": true
-  },
   "archipelagoadditions:archipelagoadditions/the_barbaric_archipelago": {
     "criteria": {
       "spawn": "2025-07-25 03:08:32 +0000"
@@ -31,27 +17,55 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-07-25 16:47:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-25 16:47:57 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:husbandry/fishy_business": {
     "criteria": {
-      "killed_by_something": "2025-07-25 03:11:29 +0000"
+      "salmon": "2025-07-25 19:08:59 +0000"
     },
     "done": true
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-07-25 17:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-25 16:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-07-25 17:26:43 +0000",
+      "cooked_mutton": "2025-07-25 18:41:56 +0000",
+      "cooked_beef": "2025-07-25 16:47:57 +0000",
+      "potato": "2025-07-25 19:01:27 +0000",
+      "cooked_chicken": "2025-07-25 18:58:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-25 17:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-25 16:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-07-25 03:11:29 +0000"
     },
     "done": true
   },
@@ -80,12 +94,6 @@
       "minecraft:plains": "2025-07-25 16:54:48 +0000"
     },
     "done": false
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-07-25 16:45:22 +0000"
-    },
-    "done": true
   },
   "DataVersion": 2975
 }
