@@ -695,3 +695,18 @@ java.lang.ClassCastException: class net.mehvahdjukaar.supplementaries.common.blo
 [25Jul2025 17:47:59.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Huevito joined the game
 [25Jul2025 17:47:59.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Huevito has made the advancement [The Barbaric Archipelago]
 [25Jul2025 17:48:20.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> [name:"Aldea Llanura", x:-1951, y:63, z:-1073, dim:minecraft:overworld]
+[25Jul2025 17:50:29.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cirasas moved too quickly! -0.9821096493587902,0.0,10.056013685524704
+[25Jul2025 17:50:29.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morangg moved too quickly! 7.520488061701826,0.0,6.6601762740756385
+[25Jul2025 17:50:29.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[25Jul2025 17:50:58.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas was slain by Gronckle
+[25Jul2025 17:51:53.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg has made the advancement [Bonk!]
+[25Jul2025 17:53:07.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morangg lost connection: Disconnected
+[25Jul2025 17:53:07.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg left the game
+[25Jul2025 17:53:59.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas was slain by Gronckle
+[25Jul2025 18:00:12.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Huevito has made the advancement [Wares & Stories]
+[25Jul2025 18:02:06.285] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66aac3f6
+[25Jul2025 18:02:06.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Morangg[/127.157.203.231:60395] logged in with entity id 37847 at (-1955.6764567381765, 63.5625, -1066.0600208039086)
+[25Jul2025 18:02:06.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg joined the game
+[25Jul2025 18:07:52.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Huevito has made the advancement [Acquire Hardware]
+[25Jul2025 18:07:54.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Huevito has made the advancement [Diamonds!]
+[25Jul2025 18:09:43.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas has reached the goal [Workout Session]
