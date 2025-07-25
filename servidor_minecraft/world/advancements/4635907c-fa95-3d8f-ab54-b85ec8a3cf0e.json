@@ -1,0 +1,22 @@
+{
+  "archipelagoadditions:archipelagoadditions/the_barbaric_archipelago": {
+    "criteria": {
+      "spawn": "2025-07-25 17:47:59 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-07-25 17:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_badlands": "2025-07-25 17:48:15 +0000",
+      "minecraft:badlands": "2025-07-25 17:47:59 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
