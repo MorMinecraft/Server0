@@ -1,7 +1,14 @@
 {
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-07-25 04:11:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-07-25 04:10:25 +0000"
+      "bread": "2025-07-25 04:10:25 +0000",
+      "suspicious_stew": "2025-07-25 04:18:26 +0000"
     },
     "done": false
   },
@@ -29,9 +36,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-25 04:11:09 +0000"
+    },
+    "done": true
+  },
   "archipelagoadditions:archipelagoadditions/find_johanns_ship": {
     "criteria": {
       "in_ship": "2025-07-25 04:09:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2025-07-25 04:18:26 +0000"
     },
     "done": true
   },
@@ -39,13 +58,24 @@
     "criteria": {
       "minecraft:wooded_badlands": "2025-07-25 04:02:44 +0000",
       "minecraft:badlands": "2025-07-25 04:02:52 +0000",
+      "minecraft:beach": "2025-07-25 04:15:11 +0000",
+      "minecraft:sparse_jungle": "2025-07-25 04:15:41 +0000",
       "minecraft:lukewarm_ocean": "2025-07-25 04:07:48 +0000",
       "minecraft:river": "2025-07-25 04:03:48 +0000",
       "minecraft:stony_shore": "2025-07-25 04:05:22 +0000",
+      "minecraft:forest": "2025-07-25 04:16:53 +0000",
       "minecraft:desert": "2025-07-25 04:04:10 +0000",
-      "minecraft:warm_ocean": "2025-07-25 04:07:16 +0000"
+      "minecraft:warm_ocean": "2025-07-25 04:07:16 +0000",
+      "minecraft:savanna": "2025-07-25 04:16:15 +0000",
+      "minecraft:plains": "2025-07-25 04:16:59 +0000"
     },
     "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-25 04:12:59 +0000"
+    },
+    "done": true
   },
   "DataVersion": 2975
 }

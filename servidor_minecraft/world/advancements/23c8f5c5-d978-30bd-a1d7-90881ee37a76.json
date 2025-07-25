@@ -1,31 +1,13 @@
 {
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-07-25 02:12:06 +0000"
-    },
-    "done": true
-  },
   "archipelagoadditions:archipelagoadditions/the_barbaric_archipelago": {
     "criteria": {
       "spawn": "2025-07-25 01:40:43 +0000"
     },
     "done": true
   },
-  "create:root": {
+  "archipelagoadditions:archipelagoadditions/find_hunter_flagship": {
     "criteria": {
-      "0": "2025-07-25 01:41:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-07-25 01:53:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-07-25 03:57:48 +0000"
+      "in_flagship": "2025-07-25 04:20:23 +0000"
     },
     "done": true
   },
@@ -58,18 +40,6 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-07-25 01:54:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-07-25 01:51:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-07-25 04:10:32 +0000"
@@ -82,23 +52,12 @@
     },
     "done": true
   },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "way_sign": "2025-07-25 01:51:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-07-25 01:53:00 +0000"
+      "bread": "2025-07-25 01:53:00 +0000",
+      "carrot": "2025-07-25 04:16:27 +0000"
     },
     "done": false
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-07-25 03:57:08 +0000"
-    },
-    "done": true
   },
   "minecraft:adventure/trade": {
     "criteria": {
@@ -109,18 +68,6 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-07-25 01:53:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-07-25 01:45:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-07-25 04:01:45 +0000"
     },
     "done": true
   },
@@ -138,6 +85,7 @@
       "minecraft:desert": "2025-07-25 01:45:36 +0000",
       "minecraft:jungle": "2025-07-25 02:56:56 +0000",
       "minecraft:windswept_savanna": "2025-07-25 03:12:42 +0000",
+      "minecraft:warm_ocean": "2025-07-25 04:15:17 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-25 02:52:02 +0000",
       "minecraft:savanna": "2025-07-25 03:04:56 +0000",
       "minecraft:plains": "2025-07-25 02:55:08 +0000"
@@ -148,6 +96,66 @@
     "criteria": {
       "monstrous_nightmare": "2025-07-25 02:59:10 +0000",
       "terrible_terror": "2025-07-25 02:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-25 02:12:06 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-07-25 01:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-25 01:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-25 03:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-25 01:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-25 01:51:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-07-25 01:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-07-25 03:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-25 01:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-25 04:01:45 +0000"
     },
     "done": true
   },

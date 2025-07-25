@@ -6880,3 +6880,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Jul2025 04:10:43.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Jul2025 04:11:09.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ekundetaker15 has made the advancement [Diamonds!]
 [25Jul2025 04:11:14.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ekundetaker15 has made the advancement [Suit Up]
+[25Jul2025 04:12:04.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1047, y=64, z=-569} BlockPos{x=-1047, y=63, z=-569}
+[25Jul2025 04:15:43.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 04:15:43.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 04:18:26.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ekundetaker15 has completed the challenge [When the Stew is Sus]
+[25Jul2025 04:20:23.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has completed the challenge [Pride of the Armada]
+[25Jul2025 04:20:43.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 04:20:43.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
