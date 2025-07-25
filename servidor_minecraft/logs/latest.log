@@ -736,3 +736,25 @@
 [25Jul2025 02:59:10.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has made the advancement [Best Friends Forever]
 [25Jul2025 02:59:10.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has made the advancement [Unique friendship]
 [25Jul2025 02:59:10.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has made the advancement [Hot-headed fire breathers]
+[25Jul2025 03:01:46.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg has made the advancement [Diamonds!]
+[25Jul2025 03:08:09.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg was blown up by Creeper
+[25Jul2025 03:08:31.990] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@53d49727
+[25Jul2025 03:08:31.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luquita23[/127.217.190.61:36053] logged in with entity id 53779 at (3.5, 86.0, 4.5)
+[25Jul2025 03:08:31.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luquita23 joined the game
+[25Jul2025 03:08:32.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luquita23 has made the advancement [The Barbaric Archipelago]
+[25Jul2025 03:09:18.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> [name:"Aldea Llanura", x:-1951, y:63, z:-1073, dim:minecraft:overworld]
+[25Jul2025 03:11:24.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has made the advancement [The Parrots and the Bats]
+[25Jul2025 03:11:29.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luquita23 was slain by Monstrous Nightmare
+[25Jul2025 03:11:40.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg has made the advancement [A Seedy Place]
+[25Jul2025 03:11:53.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> metete a ds gordo deforme
+[25Jul2025 03:15:48.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> ds
+[25Jul2025 03:16:05.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> pigga
+[25Jul2025 03:16:06.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Luquita23> ya me tengo que ir, tenfo kinesio 8am
+[25Jul2025 03:16:20.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luquita23 lost connection: Disconnected
+[25Jul2025 03:16:20.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luquita23 left the game
+[25Jul2025 03:17:42.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg has made the advancement [The Parrots and the Bats]
+[25Jul2025 03:21:20.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Gronckle
+[25Jul2025 03:22:07.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1958, y=64, z=-1051} BlockPos{x=-1959, y=62, z=-1051}
+[25Jul2025 03:22:31.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Gronckle
+[25Jul2025 03:24:45.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> subi el vol en ds
+[25Jul2025 03:25:52.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
