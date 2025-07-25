@@ -653,3 +653,16 @@ java.lang.ClassCastException: class net.mehvahdjukaar.supplementaries.common.blo
 [25Jul2025 16:25:15.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Morangg: Teleported Cirasas to Morangg]
 [25Jul2025 16:25:23.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas has made the advancement [A Seedy Place]
 [25Jul2025 16:25:24.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Morangg no longer a server operator
+[25Jul2025 16:31:15.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg hit the ground too hard whilst trying to escape Stinger
+[25Jul2025 16:31:24.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas has made the advancement [Sweet Dreams]
+[25Jul2025 16:32:35.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg was shot by Deadly Nadder
+[25Jul2025 16:41:25.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas has made the advancement [Stone Age]
+[25Jul2025 16:42:06.437] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4ee9b48b
+[25Jul2025 16:42:06.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luquita23[/127.217.190.61:49727] logged in with entity id 6226 at (-796.576663490459, 79.0, -362.7240610293814)
+[25Jul2025 16:42:06.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luquita23 joined the game
+[25Jul2025 16:42:16.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas has made the advancement [Getting an Upgrade]
+[25Jul2025 16:47:02.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luquita23 has made the advancement [Stone Age]
+[25Jul2025 16:48:37.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morangg lost connection: Disconnected
+[25Jul2025 16:48:37.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg left the game
+[25Jul2025 16:50:50.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Luquita23 has made the advancement [Wares & Stories]
+[25Jul2025 16:57:48.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind

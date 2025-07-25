@@ -38,6 +38,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-07-25 16:28:22 +0000",
       "apple": "2025-07-25 02:22:04 +0000",
       "bread": "2025-07-25 01:47:01 +0000",
       "rotten_flesh": "2025-07-25 02:53:11 +0000"
