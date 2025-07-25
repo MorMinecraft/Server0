@@ -1,0 +1,84 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-25 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-07-25 01:47:01 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-07-25 01:47:04 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:archipelagoadditions/the_barbaric_archipelago": {
+    "criteria": {
+      "spawn": "2025-07-25 01:40:42 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-07-25 01:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-07-25 02:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-25 01:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-25 01:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-25 02:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_badlands": "2025-07-25 01:41:13 +0000",
+      "minecraft:badlands": "2025-07-25 01:40:42 +0000",
+      "minecraft:beach": "2025-07-25 01:51:35 +0000",
+      "minecraft:sparse_jungle": "2025-07-25 01:58:24 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-25 01:51:01 +0000",
+      "minecraft:river": "2025-07-25 01:44:50 +0000",
+      "minecraft:stony_shore": "2025-07-25 01:48:40 +0000",
+      "minecraft:swamp": "2025-07-25 02:00:08 +0000",
+      "minecraft:forest": "2025-07-25 01:51:56 +0000",
+      "minecraft:desert": "2025-07-25 01:45:20 +0000",
+      "minecraft:jungle": "2025-07-25 01:52:01 +0000",
+      "minecraft:windswept_savanna": "2025-07-25 01:59:45 +0000",
+      "minecraft:warm_ocean": "2025-07-25 01:48:41 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-25 01:51:22 +0000",
+      "minecraft:savanna": "2025-07-25 01:55:07 +0000",
+      "minecraft:plains": "2025-07-25 01:55:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-25 01:44:31 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
