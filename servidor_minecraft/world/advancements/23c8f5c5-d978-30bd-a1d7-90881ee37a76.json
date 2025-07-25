@@ -123,6 +123,12 @@
     },
     "done": true
   },
+  "isleofberk:light_fury": {
+    "criteria": {
+      "requirements": "2025-07-25 04:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-07-25 01:54:50 +0000"
@@ -132,6 +138,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-07-25 01:51:12 +0000"
+    },
+    "done": true
+  },
+  "isleofberk:strike": {
+    "criteria": {
+      "light_fury": "2025-07-25 04:26:14 +0000"
     },
     "done": true
   },

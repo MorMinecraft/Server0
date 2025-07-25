@@ -6887,3 +6887,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Jul2025 04:20:23.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has completed the challenge [Pride of the Armada]
 [25Jul2025 04:20:43.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jul2025 04:20:43.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 04:25:06.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ekundetaker15 has made the advancement [The Parrots and the Bats]
+[25Jul2025 04:25:43.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 04:25:43.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 04:26:14.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has completed the challenge [ANOTHER ONE!?]
+[25Jul2025 04:26:14.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has made the advancement [Pinpoint accurate]
+[25Jul2025 04:26:49.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ekundetaker15 has made the advancement [A Seedy Place]
+[25Jul2025 04:30:43.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jul2025 04:30:43.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jul2025 04:31:34.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has made the advancement [Dragon Hunter]
+[25Jul2025 04:32:10.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ekundetaker15 has made the advancement [Acquire Hardware]

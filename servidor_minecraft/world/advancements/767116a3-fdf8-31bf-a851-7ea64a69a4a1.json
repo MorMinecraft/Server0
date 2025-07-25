@@ -1,17 +1,4 @@
 {
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_boots": "2025-07-25 04:11:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2025-07-25 04:10:25 +0000",
-      "suspicious_stew": "2025-07-25 04:18:26 +0000"
-    },
-    "done": false
-  },
   "archipelagoadditions:archipelagoadditions/the_barbaric_archipelago": {
     "criteria": {
       "spawn": "2025-07-25 04:02:44 +0000"
@@ -30,15 +17,58 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "obsidian": "2025-07-25 04:10:33 +0000"
+      "minecraft:cow": "2025-07-25 04:25:06 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-25 04:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-07-25 04:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-07-25 04:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-25 04:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-07-25 04:10:25 +0000",
+      "suspicious_stew": "2025-07-25 04:18:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-25 04:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-25 04:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-25 04:10:33 +0000"
     },
     "done": true
   },
@@ -70,12 +100,6 @@
       "minecraft:plains": "2025-07-25 04:16:59 +0000"
     },
     "done": false
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-07-25 04:12:59 +0000"
-    },
-    "done": true
   },
   "DataVersion": 2975
 }
