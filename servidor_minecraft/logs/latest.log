@@ -1114,3 +1114,16 @@
 [26Jul2025 03:48:06.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -5.387848975115048,0.7750892736576702,-8.955398437400845
 [26Jul2025 03:48:06.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -6.489403728711295,1.179915015175638,-10.426556132262021
 [26Jul2025 03:59:35.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has made the advancement [Ice Bucket Challenge]
+[26Jul2025 04:28:56.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[26Jul2025 04:28:56.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Jul2025 04:28:56.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Jul2025 04:28:56.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kreeex lost connection: Server closed
+[26Jul2025 04:28:56.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex left the game
+[26Jul2025 04:28:56.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Jul2025 04:28:58.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Jul2025 04:28:59.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Jul2025 04:28:59.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Jul2025 04:28:59.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Jul2025 04:28:59.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Jul2025 04:28:59.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Jul2025 04:28:59.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

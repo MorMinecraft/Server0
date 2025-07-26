@@ -6656,3 +6656,31 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Jul2025 04:12:48.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Jul2025 04:17:48.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Jul2025 04:17:48.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 04:22:48.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 04:22:48.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 04:27:48.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 04:27:48.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 04:28:56.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[26Jul2025 04:28:56.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Jul2025 04:28:56.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Jul2025 04:28:56.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kreeex lost connection: Server closed
+[26Jul2025 04:28:56.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex left the game
+[26Jul2025 04:28:56.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Jul2025 04:28:58.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Jul2025 04:28:59.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Jul2025 04:28:59.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Jul2025 04:28:59.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jul2025 04:28:59.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jul2025 04:28:59.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Jul2025 04:28:59.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Jul2025 04:28:59.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Jul2025 04:28:59.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Jul2025 04:28:59.049] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[26Jul2025 04:28:59.049] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[26Jul2025 04:28:59.515] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[26Jul2025 04:28:59.516] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[26Jul2025 04:28:59.516] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[26Jul2025 04:28:59.516] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[26Jul2025 04:28:59.518] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[26Jul2025 04:28:59.518] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[26Jul2025 04:28:59.518] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file structurize-server.toml changed, sending notifies
