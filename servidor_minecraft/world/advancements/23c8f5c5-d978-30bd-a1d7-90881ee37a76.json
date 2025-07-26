@@ -144,6 +144,7 @@
       "minecraft:warm_ocean": "2025-07-25 04:15:17 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-25 02:52:02 +0000",
       "minecraft:flower_forest": "2025-07-26 03:28:09 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-26 16:09:10 +0000",
       "minecraft:savanna": "2025-07-25 03:04:56 +0000",
       "minecraft:plains": "2025-07-25 02:55:08 +0000"
     },
@@ -159,6 +160,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-25 02:12:06 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:archipelagoadditions/hofferson_axe": {
+    "criteria": {
+      "hofferson": "2025-07-26 16:29:54 +0000"
     },
     "done": true
   },

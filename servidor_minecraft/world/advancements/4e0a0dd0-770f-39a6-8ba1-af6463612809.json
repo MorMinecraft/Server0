@@ -36,6 +36,12 @@
     },
     "done": false
   },
+  "isleofberk:boulder": {
+    "criteria": {
+      "requirements": "2025-07-26 15:56:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-07-25 03:17:42 +0000"
@@ -107,6 +113,12 @@
       "minecraft:plains": "2025-07-25 01:55:54 +0000"
     },
     "done": false
+  },
+  "isleofberk:isleofberk": {
+    "criteria": {
+      "gronckle": "2025-07-26 15:56:25 +0000"
+    },
+    "done": true
   },
   "create:andesite_casing": {
     "criteria": {
@@ -225,6 +237,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-07-25 02:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-26 15:56:25 +0000"
     },
     "done": true
   },
