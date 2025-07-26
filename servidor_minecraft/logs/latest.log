@@ -915,3 +915,70 @@
 [26Jul2025 02:48:51.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved wrongly! 1.6064286219940906
 [26Jul2025 02:54:18.306] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [26Jul2025 02:54:18.386] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[26Jul2025 03:01:38.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Dragon Hunter Berserker
+[26Jul2025 03:02:21.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was shot by Dragon Hunter
+[26Jul2025 03:05:03.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Dragon Hunter Berserker
+[26Jul2025 03:05:27.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was shot by Dragon Hunter
+[26Jul2025 03:06:00.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was shot by Dragon Hunter
+[26Jul2025 03:06:23.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was blown up by Creeper
+[26Jul2025 03:08:16.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was shot by Dragon Hunter
+[26Jul2025 03:09:51.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Monstrous Nightmare
+[26Jul2025 03:11:37.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was shot by Dragon Hunter
+[26Jul2025 03:15:36.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Dragon Hunter Chief
+[26Jul2025 03:15:46.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Dragon Hunter Chief
+[26Jul2025 03:16:18.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Dragon Hunter Chief
+[26Jul2025 03:16:28.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Dragon Hunter Chief
+[26Jul2025 03:16:35.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Dragon Hunter Chief'/39265, l='ServerLevel[world]', x=-929.36, y=68.00, z=-3601.03] died: Dragon Hunter Chief was slain by Kreeex
+[26Jul2025 03:16:50.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex has made the advancement [The Iron Gronckle]
+[26Jul2025 03:18:23.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was shot by Dragon Hunter
+[26Jul2025 03:19:25.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Vex
+[26Jul2025 03:20:03.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Vex
+[26Jul2025 03:22:03.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Vex
+[26Jul2025 03:25:05.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was shot by Dragon Hunter
+[26Jul2025 03:25:22.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Dragon Hunter Berserker
+[26Jul2025 03:26:19.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 3.1058299068253064,-2.1024531986136736,-9.502848753144463
+[26Jul2025 03:26:19.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 3.5859376586632834,1.2964776804942204,-9.563111796934209
+[26Jul2025 03:26:19.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 4.316627641118089,1.6812429766356871,-11.474911909041111
+[26Jul2025 03:26:22.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -4.405603909729621,-2.7985054595344963,11.480609322025884
+[26Jul2025 03:26:22.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -4.405603909729621,-2.7985054595344963,11.480609322025884
+[26Jul2025 03:26:22.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -3.663232977611642,-2.1495668667640473,9.564054431979002
+[26Jul2025 03:26:22.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 3.0682323895927084,5.587652167204681,-7.709982409400709
+[26Jul2025 03:26:22.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 3.819844149672008,6.629099483385232,-9.631153905138035
+[26Jul2025 03:26:22.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 3.7601387036288543,5.357146986467782,-9.606896573142421
+[26Jul2025 03:26:22.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -5.324416981475451,-8.80441409380441,13.474170996362773
+[26Jul2025 03:26:22.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -5.324416981475451,-8.80441409380441,13.474170996362773
+[26Jul2025 03:26:22.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -6.076987413347183,-9.909298063124012,15.395821432912726
+[26Jul2025 03:26:22.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -6.830479043859782,-11.094956437481613,17.317932089142687
+[26Jul2025 03:26:22.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -4.513335203750444,-6.5162456035275795,11.528859785804798
+[26Jul2025 03:26:22.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -4.513335203750444,-6.5162456035275795,11.528859785804798
+[26Jul2025 03:27:43.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -10.219686034736242,-3.007325570181081,-0.6813161535724248
+[26Jul2025 03:27:43.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -12.268968765009731,-3.6029069944024457,-0.8188687950369058
+[26Jul2025 03:27:43.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -10.252430625794887,-2.9693477265572596,-0.6892145809347312
+[26Jul2025 03:27:43.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 14.36101889524457,4.145559089541749,0.9667374976015708
+[26Jul2025 03:27:43.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 14.36101889524457,4.145559089541749,0.9667374976015708
+[26Jul2025 03:27:44.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -10.310761469793079,2.1613010962591233,-0.22070588744600173
+[26Jul2025 03:27:44.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -12.374293828289183,2.754632900583971,-0.26010184135748204
+[26Jul2025 03:27:44.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 12.383699144749926,-4.046843194336745,0.18909115664791898
+[26Jul2025 03:27:44.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 12.383699144749926,-4.046843194336745,0.18909115664791898
+[26Jul2025 03:27:44.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 10.318881787039118,-3.1911065184246183,0.17395100404110053
+[26Jul2025 03:27:51.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -9.778569346555969,-2.102235813016719,0.6412351611297709
+[26Jul2025 03:27:51.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -11.766199194104502,-2.5488915008872937,0.7715751015020942
+[26Jul2025 03:27:51.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -13.761888335269305,-3.0034871712521323,0.902443534566828
+[26Jul2025 03:27:51.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -15.764764754688485,-3.4657084009528916,1.0337832774280287
+[26Jul2025 03:27:51.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -9.97407418150533,-2.271405722636601,0.654055500168397
+[26Jul2025 03:27:51.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -11.989076310617293,-2.7479841130735423,0.7861903932334826
+[26Jul2025 03:27:51.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -14.009176053184092,-3.231317547542446,0.9186595651558491
+[26Jul2025 03:27:51.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -16.03382184756083,-3.7211385264259036,1.0514268469714807
+[26Jul2025 03:27:51.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -18.06252181105856,-4.21719014308637,1.1844599831974847
+[26Jul2025 03:27:51.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -20.094837282682647,-4.719225664384339,1.317730208393641
+[26Jul2025 03:27:51.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -22.130377064546565,-5.22700812780802,1.4512118695397476
+[26Jul2025 03:27:51.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -24.16879228636526,-5.740309954556665,1.5848820892711046
+[26Jul2025 03:27:51.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -26.20977182560955,-6.258912577945765,1.7187204655538153
+[26Jul2025 03:27:52.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -28.253038223200065,-6.782606086527437,1.8527088038531474
+[26Jul2025 03:28:06.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -9.48932957500756,-2.951489372618809,2.400448543327002
+[26Jul2025 03:28:06.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -11.382202708534805,-3.556735311030039,2.993098801403903
+[26Jul2025 03:28:06.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -13.273815085096658,-4.166509828000343,3.6141723937298593
+[26Jul2025 03:28:06.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -15.164303118564703,-4.780633591903424,4.260593916269954
+[26Jul2025 03:28:06.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -17.053788462832472,-5.39912562215558,4.929620723626158
+[26Jul2025 03:28:06.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -11.347336888972222,-3.6708541967531403,3.7791367695767804
+[26Jul2025 03:28:10.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 4.875257383406961,-0.20626091813397807,-9.686732358770769
