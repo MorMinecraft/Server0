@@ -46,6 +46,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-25 04:33:01 +0000",
+      "minecraft:blaze": "2025-07-26 23:32:39 +0000",
       "minecraft:skeleton": "2025-07-25 03:32:13 +0000",
       "minecraft:vindicator": "2025-07-26 03:16:35 +0000",
       "minecraft:spider": "2025-07-25 22:20:20 +0000",
@@ -60,6 +61,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "pufferfish": "2025-07-25 02:02:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-26 23:25:37 +0000"
     },
     "done": true
   },
@@ -106,6 +113,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-07-25 01:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-26 23:25:37 +0000"
     },
     "done": true
   },
@@ -157,6 +170,16 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-07-26 23:33:41 +0000",
+      "minecraft:nether_wastes": "2025-07-26 23:25:38 +0000",
+      "minecraft:soul_sand_valley": "2025-07-26 23:31:19 +0000",
+      "minecraft:warped_forest": "2025-07-26 23:30:25 +0000",
+      "minecraft:basalt_deltas": "2025-07-26 23:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-25 02:12:06 +0000"
@@ -166,6 +189,12 @@
   "archipelagoadditions:archipelagoadditions/hofferson_axe": {
     "criteria": {
       "hofferson": "2025-07-26 16:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-26 23:31:54 +0000"
     },
     "done": true
   },
