@@ -584,3 +584,10 @@
 [26Jul2025 23:03:51.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gronckle (vehicle of Morangg) moved wrongly! 1.314324624318307
 [26Jul2025 23:03:51.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gronckle (vehicle of Morangg) moved wrongly! 1.718752196317801
 [26Jul2025 23:03:51.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gronckle (vehicle of Morangg) moved wrongly! 2.0988155568846008
+[26Jul2025 23:11:07.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: natasha was burnt to a crisp whilst fighting Gronckle
+[26Jul2025 23:18:06.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: natasha was slain by Kreeex
+[26Jul2025 23:18:33.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: natasha was slain by Kreeex
+[26Jul2025 23:18:43.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: natasha was slain by Kreeex
+[26Jul2025 23:18:57.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: natasha was slain by Kreeex
+[26Jul2025 23:19:03.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: natasha lost connection: Disconnected
+[26Jul2025 23:19:03.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: natasha left the game
