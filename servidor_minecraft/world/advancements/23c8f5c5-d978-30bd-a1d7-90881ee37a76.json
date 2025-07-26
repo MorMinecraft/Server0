@@ -223,6 +223,12 @@
     },
     "done": true
   },
+  "isleofberk:night_fury": {
+    "criteria": {
+      "requirements": "2025-07-26 18:54:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "way_sign": "2025-07-25 01:51:00 +0000"
