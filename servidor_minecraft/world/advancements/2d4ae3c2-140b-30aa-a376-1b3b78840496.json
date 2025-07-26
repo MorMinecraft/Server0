@@ -29,12 +29,6 @@
     },
     "done": false
   },
-  "archipelagoadditions:dragon_hunter/dragonhunter": {
-    "criteria": {
-      "light_fury": "2025-07-25 19:29:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-25 18:29:41 +0000"
@@ -44,6 +38,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "pufferfish": "2025-07-25 18:41:37 +0000"
+    },
+    "done": true
+  },
+  "archipelagoadditions:dragon_hunter/dragonhunter": {
+    "criteria": {
+      "light_fury": "2025-07-25 19:29:22 +0000"
     },
     "done": true
   },
@@ -67,6 +67,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-07-26 22:59:04 +0000",
       "potato": "2025-07-25 19:17:19 +0000",
       "bread": "2025-07-25 19:04:26 +0000",
       "melon_slice": "2025-07-25 18:24:43 +0000",
@@ -104,13 +105,6 @@
     },
     "done": false
   },
-  "isleofberk:isleofberk": {
-    "criteria": {
-      "monstrous_nightmare": "2025-07-25 19:47:47 +0000",
-      "terrible_terror": "2025-07-25 19:47:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:wooded_badlands": "2025-07-25 18:14:23 +0000",
@@ -128,6 +122,13 @@
       "minecraft:plains": "2025-07-25 18:27:00 +0000"
     },
     "done": false
+  },
+  "isleofberk:isleofberk": {
+    "criteria": {
+      "monstrous_nightmare": "2025-07-25 19:47:47 +0000",
+      "terrible_terror": "2025-07-25 19:47:47 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
