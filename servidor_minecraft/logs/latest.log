@@ -498,3 +498,11 @@
 [27Jul2025 01:55:16.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez has made the advancement [This Must be a Sign!]
 [27Jul2025 01:55:32.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jotajotalopez moved too quickly! 6.51294423313368,0.8800391385729398,-7.834311524190241
 [27Jul2025 01:55:32.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4769ms or 95 ticks behind
+[27Jul2025 01:56:32.973] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@734c7968
+[27Jul2025 01:56:32.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cirasas[/127.47.96.20:39551] logged in with entity id 178310 at (-1906.5, 66.0, -1115.5)
+[27Jul2025 01:56:32.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas joined the game
+[27Jul2025 01:58:26.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez has made the advancement [Wares & Stories]
+[27Jul2025 02:00:18.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg was blown up by Cirasas
+[27Jul2025 02:04:18.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez has made the advancement [Suit Up]
+[27Jul2025 02:05:38.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez has made the advancement [Take Aim]
+[27Jul2025 02:06:03.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez has made the advancement [Acquire Hardware]
