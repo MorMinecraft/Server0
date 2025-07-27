@@ -206,6 +206,12 @@
     },
     "done": true
   },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-07-27 02:51:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-25 17:10:35 +0000"
@@ -215,6 +221,12 @@
   "create:belt": {
     "criteria": {
       "0": "2025-07-27 02:33:32 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-07-27 02:52:37 +0000"
     },
     "done": true
   },

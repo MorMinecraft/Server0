@@ -526,3 +526,8 @@
 [27Jul2025 02:36:57.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez was slain by Cirasas
 [27Jul2025 02:43:37.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez has made the advancement [We Need to Go Deeper]
 [27Jul2025 02:45:40.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez was burnt to a crisp whilst fighting Foxhound
+[27Jul2025 02:51:10.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg has made the advancement [Complex Curiosities]
+[27Jul2025 02:51:16.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas has made the advancement [Complex Curiosities]
+[27Jul2025 02:52:26.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jotajotalopez lost connection: Disconnected
+[27Jul2025 02:52:26.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez left the game
+[27Jul2025 02:52:37.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas has made the advancement [The Brass Age]
