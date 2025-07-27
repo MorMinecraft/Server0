@@ -531,3 +531,8 @@
 [27Jul2025 02:52:26.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jotajotalopez lost connection: Disconnected
 [27Jul2025 02:52:26.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez left the game
 [27Jul2025 02:52:37.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas has made the advancement [The Brass Age]
+[27Jul2025 03:01:24.768] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1e7bb252
+[27Jul2025 03:01:24.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jotajotalopez[/127.44.181.86:45149] logged in with entity id 199737 at (-1913.987187359714, 66.0, -1115.9562125247787)
+[27Jul2025 03:01:24.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez joined the game
+[27Jul2025 03:02:08.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jotajotalopez lost connection: Disconnected
+[27Jul2025 03:02:08.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez left the game

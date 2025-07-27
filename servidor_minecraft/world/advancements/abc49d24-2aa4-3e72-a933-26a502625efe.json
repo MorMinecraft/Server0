@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-07-27 01:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-07-27 02:11:26 +0000",
@@ -42,12 +48,6 @@
       "carrot": "2025-07-27 02:07:05 +0000"
     },
     "done": false
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "way_sign": "2025-07-27 01:55:16 +0000"
-    },
-    "done": true
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
