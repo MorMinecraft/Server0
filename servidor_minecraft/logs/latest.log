@@ -565,3 +565,5 @@
 [27Jul2025 16:39:46.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Morangg[/127.157.203.231:35317] logged in with entity id 32 at (-1898.0426313674106, 69.9375, -1073.122417247863)
 [27Jul2025 16:39:46.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg joined the game
 [27Jul2025 16:39:46.149] [Server thread/INFO] [structurize/]: New Server UUID ea4a86ec-26f4-40bb-80b2-dc78e8c71b23
+[27Jul2025 16:55:51.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morangg moved too quickly! 6.626671869727943,0.41999998688697815,7.886461798034361
+[27Jul2025 16:55:51.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
