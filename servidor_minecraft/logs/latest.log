@@ -1343,3 +1343,17 @@
 [27Jul2025 04:43:02.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2444ms or 48 ticks behind
 [27Jul2025 04:55:55.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morangg moved too quickly! 6.704874454800574,-0.7531999805212024,7.565909539735912
 [27Jul2025 04:55:55.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2910ms or 58 ticks behind
+[27Jul2025 05:13:45.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg has made the advancement [Natural born hunters]
+[27Jul2025 05:18:05.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morangg lost connection: Disconnected
+[27Jul2025 05:18:05.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg left the game
+[27Jul2025 05:18:19.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[27Jul2025 05:18:19.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Jul2025 05:18:19.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Jul2025 05:18:19.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Jul2025 05:18:21.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Jul2025 05:18:21.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Jul2025 05:18:21.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Jul2025 05:18:21.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Jul2025 05:18:21.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Jul2025 05:18:21.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Jul2025 05:18:21.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
