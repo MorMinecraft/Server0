@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-07-27 02:38:24 +0000"
+    },
+    "done": false
+  },
   "archipelagoadditions:archipelagoadditions/find_hunter_flagship": {
     "criteria": {
       "in_flagship": "2025-07-26 17:22:02 +0000"
@@ -58,6 +64,12 @@
   "isleofberk:boulder": {
     "criteria": {
       "requirements": "2025-07-26 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:story/wrench": {
+    "criteria": {
+      "wrench": "2025-07-27 02:36:56 +0000"
     },
     "done": true
   },

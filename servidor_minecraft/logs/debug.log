@@ -8249,3 +8249,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Jul2025 02:35:33.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2366ms or 47 ticks behind
 [27Jul2025 02:36:48.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jul2025 02:36:48.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 02:36:56.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg has made the advancement [Engineer Gaming]
+[27Jul2025 02:36:57.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez was slain by Cirasas
+[27Jul2025 02:41:48.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 02:41:48.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 02:43:37.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez has made the advancement [We Need to Go Deeper]
+[27Jul2025 02:45:40.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez was burnt to a crisp whilst fighting Foxhound
+[27Jul2025 02:46:48.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 02:46:48.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
