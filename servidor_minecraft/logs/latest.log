@@ -441,3 +441,6 @@
 [27Jul2025 01:09:51.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kreeex lost connection: Timed out
 [27Jul2025 01:09:51.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex left the game
 [27Jul2025 01:09:52.021] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jul2025 01:22:59.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas was slain by Stinger
+[27Jul2025 01:23:04.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> ds
+[27Jul2025 01:23:09.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> el jijeros
