@@ -561,3 +561,4 @@
 [27Jul2025 18:36:24.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg joined the game
 [27Jul2025 18:36:24.962] [Server thread/INFO] [structurize/]: New Server UUID 3aa45d74-b5c0-432f-b332-d58704c3821c
 [27Jul2025 18:36:27.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2817ms or 56 ticks behind
+[27Jul2025 19:07:28.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
