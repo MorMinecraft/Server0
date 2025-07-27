@@ -450,3 +450,51 @@
 [27Jul2025 01:35:44.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Cirasas> eee
 [27Jul2025 01:35:51.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cirasas lost connection: Disconnected
 [27Jul2025 01:35:51.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas left the game
+[27Jul2025 01:46:18.706] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [supplementaries:network] rejected their client side version number
+[27Jul2025 01:46:18.706] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[27Jul2025 01:46:18.726] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d20ca13[id=<null>,name=Jotajotalopez,properties={},legacy=false] (/127.44.181.86:53953) lost connection: Connection closed - mismatched mod channel list
+[27Jul2025 01:50:04.175] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@65bbd706
+[27Jul2025 01:50:04.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jotajotalopez[/127.44.181.86:38367] logged in with entity id 175100 at (6.5, 85.0, 8.5)
+[27Jul2025 01:50:04.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez joined the game
+[27Jul2025 01:50:04.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez has made the advancement [The Barbaric Archipelago]
+[27Jul2025 01:50:21.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18, y=88, z=6} BlockPos{x=16, y=88, z=6}
+[27Jul2025 01:50:28.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-1} BlockPos{x=16, y=89, z=-1}
+[27Jul2025 01:50:29.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=16, y=89, z=-3}
+[27Jul2025 01:50:29.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=15, y=89, z=-3}
+[27Jul2025 01:50:29.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=14, y=89, z=-5}
+[27Jul2025 01:50:29.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=13, y=89, z=-6}
+[27Jul2025 01:50:29.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=13, y=89, z=-6}
+[27Jul2025 01:50:29.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=12, y=89, z=-5}
+[27Jul2025 01:50:29.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=12, y=89, z=-5}
+[27Jul2025 01:50:30.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=10, y=90, z=-8}
+[27Jul2025 01:50:30.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> [name:"Aldea Llanura", x:-1951, y:63, z:-1073, dim:minecraft:overworld]
+[27Jul2025 01:50:30.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=11, y=90, z=-8}
+[27Jul2025 01:50:30.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=10, y=90, z=-9}
+[27Jul2025 01:50:30.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=10, y=90, z=-9}
+[27Jul2025 01:50:30.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=10, y=91, z=-11}
+[27Jul2025 01:50:30.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=9, y=91, z=-10}
+[27Jul2025 01:50:30.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=8, y=91, z=-9}
+[27Jul2025 01:50:31.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=6, y=90, z=-8}
+[27Jul2025 01:50:31.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=5, y=90, z=-9}
+[27Jul2025 01:50:31.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=5, y=90, z=-9}
+[27Jul2025 01:50:31.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=8, y=91, z=-9}
+[27Jul2025 01:50:31.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=7, y=91, z=-10}
+[27Jul2025 01:50:31.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=6, y=91, z=-10}
+[27Jul2025 01:50:31.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=4, y=91, z=-11}
+[27Jul2025 01:50:32.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=4, y=91, z=-11}
+[27Jul2025 01:50:32.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=5, y=91, z=-11}
+[27Jul2025 01:50:32.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=6, y=91, z=-10}
+[27Jul2025 01:50:32.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=6, y=91, z=-11}
+[27Jul2025 01:50:32.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=6, y=91, z=-12}
+[27Jul2025 01:50:32.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=6, y=91, z=-12}
+[27Jul2025 01:50:32.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=89, z=-3} BlockPos{x=7, y=91, z=-12}
+[27Jul2025 01:51:14.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Jotajotalopez> ttt
+[27Jul2025 01:51:46.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=92, z=-31} BlockPos{x=-3, y=83, z=7}
+[27Jul2025 01:51:46.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=92, z=-31} BlockPos{x=-3, y=83, z=7}
+[27Jul2025 01:51:48.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=92, z=-31} BlockPos{x=-14, y=84, z=0}
+[27Jul2025 01:51:48.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=92, z=-31} BlockPos{x=-15, y=84, z=1}
+[27Jul2025 01:51:48.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=92, z=-31} BlockPos{x=-16, y=84, z=1}
+[27Jul2025 01:51:48.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=92, z=-31} BlockPos{x=-16, y=84, z=1}
+[27Jul2025 01:55:16.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez has made the advancement [This Must be a Sign!]
+[27Jul2025 01:55:32.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jotajotalopez moved too quickly! 6.51294423313368,0.8800391385729398,-7.834311524190241
+[27Jul2025 01:55:32.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4769ms or 95 ticks behind
