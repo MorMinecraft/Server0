@@ -5,17 +5,17 @@
     },
     "done": true
   },
-  "create:deployer": {
-    "criteria": {
-      "0": "2025-07-27 02:49:32 +0000"
-    },
-    "done": true
-  },
   "create:wrench_goggles": {
     "criteria": {
       "0": "2025-07-27 02:38:24 +0000"
     },
     "done": false
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-07-27 02:49:32 +0000"
+    },
+    "done": true
   },
   "archipelagoadditions:archipelagoadditions/find_hunter_flagship": {
     "criteria": {
@@ -140,6 +140,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-25 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-07-27 16:43:51 +0000"
     },
     "done": true
   },
