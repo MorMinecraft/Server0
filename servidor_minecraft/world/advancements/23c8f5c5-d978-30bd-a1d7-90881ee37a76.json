@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "archipelagoadditions:archipelagoadditions/macey": {
+    "criteria": {
+      "macey": "2025-07-27 04:03:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2025-07-25 03:46:27 +0000",
