@@ -121,6 +121,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-07-26 17:14:05 +0000",
+      "minecraft:eroded_badlands": "2025-07-27 00:05:47 +0000",
       "minecraft:windswept_hills": "2025-07-26 23:03:42 +0000",
       "minecraft:wooded_badlands": "2025-07-25 01:41:13 +0000",
       "minecraft:bamboo_jungle": "2025-07-26 17:46:06 +0000",
