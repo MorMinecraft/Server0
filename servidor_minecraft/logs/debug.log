@@ -7700,3 +7700,50 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Jul2025 00:40:31.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -14.373907976136252,-8.2336093992554,15.860153588175763
 [27Jul2025 00:41:39.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jul2025 00:41:39.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 00:43:48.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex was slain by Deadly Nadder
+[27Jul2025 00:44:43.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -9.504345726016936,-0.664923042916385,-4.053702759099735
+[27Jul2025 00:44:43.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 9.504345726016936,0.7278604898063747,4.053702759099735
+[27Jul2025 00:45:01.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -9.504345726016936,-1.0596202378011697,-4.053702759099451
+[27Jul2025 00:45:02.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 9.504345726016936,1.0636542944729683,4.053702759099451
+[27Jul2025 00:45:04.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -9.504345726016936,4.645321444654215,-4.053702759099451
+[27Jul2025 00:45:11.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -9.504345726016936,-0.7756116372115684,-4.053702759099451
+[27Jul2025 00:45:12.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 9.504345726016936,0.8220302601854854,4.053702759099451
+[27Jul2025 00:45:14.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -9.504345726016936,-1.051557483134502,-4.053702759099451
+[27Jul2025 00:45:14.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 9.504345726016936,1.056794800408369,4.053702759099451
+[27Jul2025 00:45:25.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -9.219411870465592,2.9973987327249887,-4.6654395620112155
+[27Jul2025 00:45:45.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -9.310358949836882,2.1513041069987935,-4.480698492955298
+[27Jul2025 00:45:45.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -11.175462733898712,2.4938610194348314,-5.3704836568965675
+[27Jul2025 00:45:45.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -13.041585555793063,2.810038914848974,-6.258120066945139
+[27Jul2025 00:45:55.509] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3300, y=33, z=-1356} but found not block entity block Block{minecraft:water}[level=1] at location
+[27Jul2025 00:45:55.509] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-3300, y=33, z=-1356}
+[27Jul2025 00:45:55.509] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3299, y=33, z=-1351} but found not block entity block Block{minecraft:water}[level=0] at location
+[27Jul2025 00:45:55.509] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-3299, y=33, z=-1351}
+[27Jul2025 00:46:03.538] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3532, y=33, z=-1555} but found not block entity block Block{minecraft:water}[level=0] at location
+[27Jul2025 00:46:03.539] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-3532, y=33, z=-1555}
+[27Jul2025 00:46:03.539] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3523, y=33, z=-1559} but found not block entity block Block{minecraft:water}[level=0] at location
+[27Jul2025 00:46:03.539] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-3523, y=33, z=-1559}
+[27Jul2025 00:46:03.539] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3524, y=33, z=-1564} but found not block entity block Block{minecraft:water}[level=1] at location
+[27Jul2025 00:46:03.539] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-3524, y=33, z=-1564}
+[27Jul2025 00:46:03.539] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3533, y=33, z=-1555} but found not block entity block Block{minecraft:water}[level=0] at location
+[27Jul2025 00:46:03.539] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-3533, y=33, z=-1555}
+[27Jul2025 00:46:09.943] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3661, y=33, z=-1660} but found not block entity block Block{minecraft:water}[level=0] at location
+[27Jul2025 00:46:09.943] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-3661, y=33, z=-1660}
+[27Jul2025 00:46:09.944] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3661, y=33, z=-1661} but found not block entity block Block{minecraft:water}[level=0] at location
+[27Jul2025 00:46:09.944] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-3661, y=33, z=-1661}
+[27Jul2025 00:46:39.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 00:46:39.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 00:51:39.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 00:51:39.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 00:56:39.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 00:56:39.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 01:01:39.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 01:01:39.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 01:03:18.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -0.5352945052036375,-0.639381191402407,10.176640198812493
+[27Jul2025 01:03:18.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -0.6340063414563701,-0.5124671493524318,12.22087597294012
+[27Jul2025 01:03:18.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -0.7306104107001374,-0.3020544080351186,14.267361092088322
+[27Jul2025 01:03:18.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -0.825334773272516,-0.01144951438070052,16.315852177182933
+[27Jul2025 01:03:18.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -0.48416364179684024,1.0355255729457866,10.231205505378966
+[27Jul2025 01:03:18.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -0.5757167374986238,1.4771137020805298,12.283080870289268
+[27Jul2025 01:03:18.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -0.6659366417361525,1.9897394425159405,14.336378976693595
+[27Jul2025 01:03:18.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -0.7549676057906254,2.570589706172356,16.39094588399803
+[27Jul2025 01:03:33.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas tried to swim in lava
