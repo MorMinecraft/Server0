@@ -97,8 +97,10 @@
       "minecraft:eroded_badlands": "2025-07-26 16:57:12 +0000",
       "minecraft:wooded_badlands": "2025-07-25 16:22:51 +0000",
       "minecraft:badlands": "2025-07-25 16:22:18 +0000",
+      "minecraft:beach": "2025-07-27 02:27:21 +0000",
       "minecraft:sparse_jungle": "2025-07-26 16:27:44 +0000",
       "minecraft:river": "2025-07-25 16:24:29 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-27 02:27:23 +0000",
       "minecraft:dripstone_caves": "2025-07-25 17:05:04 +0000",
       "minecraft:swamp": "2025-07-26 16:33:48 +0000",
       "minecraft:forest": "2025-07-25 16:52:54 +0000",
@@ -204,6 +206,12 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-07-27 02:33:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-07-25 16:25:23 +0000"
@@ -219,6 +227,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-07-27 00:09:00 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-07-27 02:18:25 +0000"
     },
     "done": true
   },

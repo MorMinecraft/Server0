@@ -511,3 +511,14 @@
 [27Jul2025 02:13:33.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg has made the advancement [We Need to Go Deeper]
 [27Jul2025 02:15:17.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez was slain by Cirasas
 [27Jul2025 02:15:36.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg was shot by Jotajotalopez
+[27Jul2025 02:17:46.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez got smoked by an Encased Fan
+[27Jul2025 02:24:30.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cirasas lost connection: Disconnected
+[27Jul2025 02:24:30.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas left the game
+[27Jul2025 02:26:41.973] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@658c4db3
+[27Jul2025 02:26:41.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cirasas[/127.47.96.20:47541] logged in with entity id 189752 at (-1520.9110866291644, 64.25220334025373, -1056.1297453911513)
+[27Jul2025 02:26:41.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas joined the game
+[27Jul2025 02:28:45.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas was slain by Stinger
+[27Jul2025 02:31:18.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas was slain by Stinger
+[27Jul2025 02:33:50.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jotajotalopez was slain by Stinger
+[27Jul2025 02:35:33.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jotajotalopez moved too quickly! 7.367010263818429,-3.249187078744683,-6.071844405576826
+[27Jul2025 02:35:33.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2366ms or 47 ticks behind
