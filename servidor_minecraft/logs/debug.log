@@ -7747,3 +7747,38 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Jul2025 01:03:18.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -0.6659366417361525,1.9897394425159405,14.336378976693595
 [27Jul2025 01:03:18.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -0.7549676057906254,2.570589706172356,16.39094588399803
 [27Jul2025 01:03:33.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas tried to swim in lava
+[27Jul2025 01:06:31.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas has made the advancement [A Terrible Fortress]
+[27Jul2025 01:06:39.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 01:06:39.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 01:06:49.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 2.7850122336913046,0.93367791669219,-11.240023824334457
+[27Jul2025 01:06:49.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 3.3718098776134866,1.3710979753410868,-13.121163691617767
+[27Jul2025 01:06:49.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 3.984039474818019,1.8806774104269124,-15.003921728528894
+[27Jul2025 01:06:50.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -4.350182127121116,-3.9972537664331043,13.211733332851963
+[27Jul2025 01:06:50.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -4.350182127121116,-3.9972537664331043,13.211733332851963
+[27Jul2025 01:06:50.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -4.350182127121116,-3.9972537664331043,13.211733332851963
+[27Jul2025 01:06:50.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -3.682984558400676,-3.2776011525040616,11.308409715896687
+[27Jul2025 01:06:50.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -3.0121246220915054,-2.6000255594843082,9.400684840840313
+[27Jul2025 01:06:50.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 2.989451056708276,2.5177880464646876,-9.416291898682175
+[27Jul2025 01:06:52.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 0.09041944085583964,-1.975184824282337,-10.315386510606004
+[27Jul2025 01:07:07.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 0.4134402038243934,-0.9559520384121072,-10.466739711217997
+[27Jul2025 01:07:07.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 0.5331695513968953,-1.1075219507132346,-12.317701945526096
+[27Jul2025 01:07:44.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 0.3169253345377001,1.7111096474227168,-9.988061351488795
+[27Jul2025 01:07:44.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! 0.38761709907612385,2.0026035967558045,-12.005791270542431
+[27Jul2025 01:07:45.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -0.43864156359541084,-1.6172493665459768,12.14627775390909
+[27Jul2025 01:07:45.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -0.43864156359541084,-1.6172493665459768,12.14627775390909
+[27Jul2025 01:07:45.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -0.36051629025951115,-1.3967471263025715,10.108081034863062
+[27Jul2025 01:07:49.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -10.168686756520401,3.0108449709002514,0.11399024775437283
+[27Jul2025 01:07:49.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -12.211705714821619,3.4953873748751647,0.10449634294309362
+[27Jul2025 01:07:49.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -14.257068426945807,3.944294310712621,0.08653577357654285
+[27Jul2025 01:07:49.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -10.22554226101147,2.252158977785342,-0.08618158444278379
+[27Jul2025 01:07:56.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -10.301812985268953,2.3796247033963738,-0.009432336096324434
+[27Jul2025 01:08:12.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -10.290422490588753,0.22053481136416053,0.013933937616457115
+[27Jul2025 01:08:12.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -12.350996325723827,0.511827425817259,0.016720725139748538
+[27Jul2025 01:08:12.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Light Fury (vehicle of Kreeex) moved too quickly! -14.412198758164777,0.8780059688427002,0.01950751266303996
+[27Jul2025 01:08:27.887] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Jul2025 01:09:12.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas fell from a high place
+[27Jul2025 01:09:51.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kreeex lost connection: Timed out
+[27Jul2025 01:09:51.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kreeex left the game
+[27Jul2025 01:09:52.021] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jul2025 01:11:39.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 01:11:39.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
