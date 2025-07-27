@@ -652,3 +652,22 @@
 [27Jul2025 17:29:59.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deadly Nadder (vehicle of Morangg) moved too quickly! -9.699703708630295,-1.4298288988581902,-4.035191859872157
 [27Jul2025 17:29:59.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deadly Nadder (vehicle of Morangg) moved too quickly! -11.085421274141027,-1.6335864219811924,-4.611666812963335
 [27Jul2025 17:29:59.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Deadly Nadder (vehicle of Morangg) moved too quickly! -12.471146763354227,-1.837116398683449,-5.188145062408694
+[27Jul2025 17:39:58.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg was slain by Iron Golem
+[27Jul2025 17:40:16.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nothing changed. The player already is an operator
+[27Jul2025 17:40:24.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Morangg: Teleported Morangg to -1940.500000, 64.000000, -1124.500000]
+[27Jul2025 17:40:31.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg was slain by Iron Golem
+[27Jul2025 17:40:43.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg was slain by Iron Golem
+[27Jul2025 17:40:43.880] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Viking'/21355, l='ServerLevel[world]', x=-1954.95, y=64.56, z=-1113.38] died, message: 'Viking was slain by Zombie'
+[27Jul2025 17:47:01.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Morangg lost connection: Disconnected
+[27Jul2025 17:47:01.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Morangg left the game
+[27Jul2025 17:47:08.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[27Jul2025 17:47:08.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Jul2025 17:47:08.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Jul2025 17:47:08.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Jul2025 17:47:10.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Jul2025 17:47:10.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Jul2025 17:47:10.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Jul2025 17:47:10.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Jul2025 17:47:10.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Jul2025 17:47:10.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Jul2025 17:47:10.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
