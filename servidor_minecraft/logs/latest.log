@@ -444,3 +444,9 @@
 [27Jul2025 01:22:59.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas was slain by Stinger
 [27Jul2025 01:23:04.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> ds
 [27Jul2025 01:23:09.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Morangg> el jijeros
+[27Jul2025 01:28:15.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas fell from a high place
+[27Jul2025 01:30:32.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas has made the advancement [Bonk!]
+[27Jul2025 01:32:55.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas tried to swim in lava
+[27Jul2025 01:35:44.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Cirasas> eee
+[27Jul2025 01:35:51.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cirasas lost connection: Disconnected
+[27Jul2025 01:35:51.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cirasas left the game

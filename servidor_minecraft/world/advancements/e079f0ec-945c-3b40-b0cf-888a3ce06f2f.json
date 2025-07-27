@@ -74,9 +74,21 @@
     },
     "done": true
   },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-07-27 01:28:49 +0000"
+    },
+    "done": true
+  },
   "archipelagoadditions:archipelagoadditions/find_johanns_ship": {
     "criteria": {
       "in_ship": "2025-07-26 16:49:59 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-07-27 01:28:52 +0000"
     },
     "done": true
   },
@@ -129,6 +141,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-07-26 17:13:00 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-07-27 01:30:32 +0000"
     },
     "done": true
   },
